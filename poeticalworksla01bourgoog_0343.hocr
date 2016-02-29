@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poeticalworksla01bourgoog_0343.png"; bbox 0 0 604 935; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 78 42 543 128">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 78 42 543 128">
+     <span class='ocr_line' id='line_1_1' title="bbox 78 42 543 128; baseline 0.009 -22.009"><span class='ocrx_word' id='word_1_1' title='bbox 78 56 81 88; x_wconf 73' lang='lat'><strong>‘³</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 102 42 543 128; x_wconf 46' lang='lat' dir='ltr'><strong>rrxffiffiuffiffi</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 250 109 527 138">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 250 109 527 138">
+     <span class='ocr_line' id='line_1_2' title="bbox 250 109 527 138; baseline -0.008 -8"><span class='ocrx_word' id='word_1_3' title='bbox 250 109 527 138; x_wconf 54' lang='lat'><strong>1:3204402053041</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 108 159 312 161">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 108 159 312 161">
+     <span class='ocr_line' id='line_1_3' title="bbox 108 159 312 161; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 108 159 312 161; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 165 217 503 254">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 165 217 503 254">
+     <span class='ocr_line' id='line_1_4' title="bbox 165 217 503 231; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 165 217 503 231; x_wconf 53' lang='lat' dir='ltr'><strong>“mni-ssm-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 165 240 503 254; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 165 240 503 254; x_wconf 67' lang='grc' dir='ltr'><strong>ΑΗΜΕΙΒυΕΙξΕΙΙΊἯΙΙΙΩΟΚΙ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 165 263 503 323">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 165 263 503 323">
+     <span class='ocr_line' id='line_1_6' title="bbox 166 263 503 278; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 166 263 503 278; x_wconf 58' lang='grc' dir='ltr'><strong>κοΐΜΤοὩΕΙ-ΙΙΙΑΠῙΜ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 165 286 503 301; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 165 286 503 301; x_wconf 59' lang='grc' dir='ltr'><strong>οΙΙΕΙοΠΕΤΙΙΕΙ-ΒΥΒΑΤΕΙΤΜ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 166 309 503 323; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 166 309 368 323; x_wconf 53' lang='lat' dir='ltr'><strong>1201me</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 381 309 405 323; x_wconf 62' lang='grc' dir='ltr'><strong>ΟΡ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 418 309 503 323; x_wconf 65' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 91 190 538 897">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 91 190 538 897">
+     <span class='ocr_line' id='line_1_9' title="bbox 91 190 538 897; baseline 0 38"><span class='ocrx_word' id='word_1_12' title='bbox 91 190 538 897; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
